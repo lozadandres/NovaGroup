@@ -1,0 +1,6 @@
+{
+  "name": "NOVA group",
+  "description": "Una plataforma digital moderna para NOVA group: Soluciones de Inteligencia Artificial, Automatización, E-Commerce y Desarrollo de Software de Vanguardia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
